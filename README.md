@@ -6,7 +6,7 @@ Third-year B.Tech (Electrical and Computer Engineering) student at BVCOE, Pune
 - Ranked Top 148 in GoQuant.
 - Built an ultra-low latency signal execution system simulating real-time decision-making under market constraints.
 - Built 3 specialized systems in C++.
-- Solved 350+ LeetCode problems, demonstrating strong algorithmic and problem-solving skills.
+- Solved 200+ LeetCode problems, demonstrating strong algorithmic and problem-solving skills.
 - Achieved 4-star rating on HackerRank across various programming challenges.
 
 ## Tech Stack
