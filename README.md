@@ -1,6 +1,6 @@
-# Saksham Verma
+# Saksham 
 
-Third-year B.Tech (Electrical and Computer Engineering) student at BVCOE, Pune  
+Final  Year B.Tech (Electrical and Computer Engineering) student at BVCOE, Pune  
 
 ## Achievements
 - Ranked Top 148 in GoQuant.
@@ -10,7 +10,7 @@ Third-year B.Tech (Electrical and Computer Engineering) student at BVCOE, Pune
 - Achieved 4-star rating on HackerRank across various programming challenges.
 
 ## Tech Stack
-- C++, Python, Linux, Git, GitHub
+- C++, Python, Rust, C#, Linux, Git, GitHub
 
 ## Projects
 - [Order Matching Book](https://github.com/sakshamverma2030/Order-Matching-System): Ultra-low latency matching engine with sub-ms performance.
